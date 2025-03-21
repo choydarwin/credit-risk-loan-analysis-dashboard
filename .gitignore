@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+notebooks/*.ipynb_checkpoints/
+
+# Data
+data/* # If you don't want to upload raw data (adjust as needed)
+
+# Power BI
+power_bi/*.pbi.tmp
+power_bi/*.pbix.backup
+power_bi/*.pbix.data
+power_bi/*.pbix.layout
+power_bi/*.pbix.resourcepackage
+power_bi/*.pbix.settings
+
+# OS-specific
+.DS_Store
+Thumbs.db
