@@ -14,6 +14,8 @@ The goal is to provide insights into loan approval rates, credit risks, and loan
 ### **Power BI Dashboard**  
 The **power_bi** folder contains the interactive dashboard (**creditriskloananalysis_dashboard.pbix**), built using the processed data.  
 
+![Demo GIF](https://github.com/choydarwin/credit-risk-loan-analysis-dashboard/blob/main/power_bi/credit_risk.gif)
+
 #### **Key Visuals in the Dashboard:**  
 - Loan approval rates by income category  
 - Approved vs. denied loan percentages  
