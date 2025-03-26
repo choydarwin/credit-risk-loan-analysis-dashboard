@@ -14,9 +14,11 @@ This folder contains the Power BI report for analyzing credit risk in loans.
 
 ### Notes:
 - In progress.
+  
+![Demo GIF](https://github.com/choydarwin/credit-risk-loan-analysis-dashboard/blob/main/power_bi/credit_risk.gif)
 
 
-<p align="center">
-  <img src="[https://github.com/choydarwin/credit-risk-loan-analysis-dashboard/blob/main/power_bi/credit_risk.gif]" width="600"/>
-</p>
+
+
+
 
