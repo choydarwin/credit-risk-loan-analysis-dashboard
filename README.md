@@ -11,6 +11,9 @@ The goal is to provide insights into loan approval rates, credit risks, and loan
 - **Exploratory Data Analysis (EDA):** 📊 Uses Matplotlib and Seaborn for visualizations, and Pandas for statistical analysis to examine data distribution, relationships, and potential issues.  
 - **Loan Data Analysis & Visualizations:** 📈 Feature engineering, Pandas for data processing, and Matplotlib/Seaborn for visualizations. Saves the processed data for Power BI.  
 
+![Demo GIF](https://github.com/choydarwin/credit-risk-loan-analysis-dashboard/blob/main/notebooks/eda.gif)
+
+
 ### **Power BI Dashboard**  
 The **power_bi** folder contains the interactive dashboard (**creditriskloananalysis_dashboard.pbix**), built using the processed data.  
 
