@@ -3,8 +3,10 @@ venv/
 env/
 
 .ipynb_checkpoints/
+# Ignorar checkpoints de Jupyter Notebook
+**/.ipynb_checkpoints/
 
-notebooks/.ipynb_checkpoints
+
 
 
 
